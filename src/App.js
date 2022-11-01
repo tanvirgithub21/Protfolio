@@ -1,10 +1,12 @@
 import './App.css';
-import Navbar from './Component/Navbar';
+import Hero from './Component/Hero/Hero';
+import Navbar from './Component/Navbar/Navbar';
 
 function App() {
   return (
     <div className=' min-h-screen'>
       <Navbar />
+      <Hero />
     </div>
   );
 }

@@ -1,0 +1,9 @@
+.bg-pattern {
+  background-image: url(./bg-pattern.svg);
+  background-repeat: repeat;
+}
+.bg-img {
+  background-image: url(./bg-img.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
